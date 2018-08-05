@@ -7,7 +7,8 @@ If you enter some word in text box in shiny app, then the app will show you some
 
 ### Prepare
 Before use my word prediction shiny app, you have to do some preparation.  
-You must download RData files in this repository. Then...
+You must download RData files in this repository. Here is download link
+Then...
 
 ### Reference
 I added R script files in this repository. So if you wonder how my app was created, please check the scripts.  
