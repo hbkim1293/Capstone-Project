@@ -12,3 +12,4 @@ You must download RData files in this repository. Then...
 ### Reference
 I added R script files in this repository. So if you wonder how my app was created, please check the scripts.  
 I made my app based on twitter, blog, news text from coursera train data set. You can download it in [here.](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip)
+If you want to practice my script, you have to download it.
