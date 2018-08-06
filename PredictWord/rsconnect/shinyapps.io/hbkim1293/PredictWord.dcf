@@ -1,0 +1,12 @@
+name: PredictWord
+title: PredictWord
+username:
+account: hbkim1293
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 395324
+bundleId: 1520136
+url: https://hbkim1293.shinyapps.io/PredictWord/
+when: 1533539857.18288
+asMultiple: FALSE
+asStatic: FALSE
